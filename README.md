@@ -13,8 +13,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Expanse-Tracker![Screenshot_20230307-124607](https://user-images.githubusercontent.com/96447724/223360197-586dc6de-07dd-418d-a873-d62b3bd9bd9f.jpg)
-
+  cd Expanse-Tracker
 ```
 
 Install dependencies
