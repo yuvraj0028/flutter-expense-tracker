@@ -18,7 +18,8 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Expanse-Tracker
+  cd Expanse-Tracker![Screenshot_20230307-124607](https://user-images.githubusercontent.com/96447724/223360197-586dc6de-07dd-418d-a873-d62b3bd9bd9f.jpg)
+
 ```
 
 Install dependencies
@@ -34,4 +35,10 @@ Run app
 ```
 
 
+
 ## ScreenShots
+
+<img src="https://user-images.githubusercontent.com/96447724/223355467-ef26a9e4-0326-4313-8a31-08a2859bf839.jpg" width="200" height="400" /> <img src="https://user-images.githubusercontent.com/96447724/223359723-f1249f97-dc00-41c6-b493-4ff2596a53ad.jpg" width="200" height="400" />
+
+
+<img src="https://user-images.githubusercontent.com/96447724/223360001-4b78d57e-ed10-41c3-996b-a3091314b9aa.jpg" width="200" height="400" /> <img src="https://user-images.githubusercontent.com/96447724/223360348-91756d0a-8366-40fc-ae89-ac3ba9d5e011.jpg" width="200" height="400" />
