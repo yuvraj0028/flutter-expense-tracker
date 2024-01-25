@@ -129,6 +129,9 @@ class _NewTransactionState extends State<NewTransaction> {
                 ),
                 child: const Text(
                   'Add Transaction',
+                  style: TextStyle(
+                    color: Colors.white,
+                  ),
                 ),
               ),
             ],

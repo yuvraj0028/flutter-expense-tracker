@@ -45,8 +45,9 @@ class MyApp extends StatelessWidget {
               labelLarge: const TextStyle(color: Colors.white),
             ),
 
-        appBarTheme: const AppBarTheme(
-          titleTextStyle: TextStyle(
+        appBarTheme: AppBarTheme(
+          color: Theme.of(context).primaryColor,
+          titleTextStyle: const TextStyle(
             fontFamily: 'OpenSans',
             fontSize: 20,
             fontWeight: FontWeight.bold,
@@ -182,7 +183,10 @@ class _MyHomePageState extends State<MyHomePage> {
           onPressed: () {
             _startAddNewTransaction(context);
           },
-          icon: const Icon(Icons.add),
+          icon: const Icon(
+            Icons.add,
+            color: Colors.white,
+          ),
           // style: ButtonStyle(iconSize: ),
         ),
       ],
